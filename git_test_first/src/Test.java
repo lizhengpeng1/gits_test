@@ -14,6 +14,8 @@ public class Test {
 
         String a1="jiangt";
         a1=a1+aa;
+
+        String s3="dd";
     }
 
     public void testpp(){

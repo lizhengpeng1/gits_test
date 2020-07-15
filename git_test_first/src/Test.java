@@ -16,6 +16,8 @@ public class Test {
         a1=a1+aa;
 
         String s3="dd";
+
+        String s4="222";
     }
 
     public void testpp(){
